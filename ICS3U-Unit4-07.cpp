@@ -1,14 +1,13 @@
 // Copyright (c) 2022 Emmaneln Fofeyin
 //
 // Created by: Emmanuel Fofeyin
-// Created on: Oct 2022
+// Created on: Nov 2022
 // This program uses loops in if statements
 
 
 #include <iostream>
 
 int main() {
-
     int counter;
 
     // Process and Output
